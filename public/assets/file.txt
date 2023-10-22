@@ -1,0 +1,1 @@
+This folder has the images and other miscellenaous itmes required in the project.
